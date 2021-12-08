@@ -1,0 +1,8 @@
+/node_modules
+/dist
+
+/src/config.json
+
+/storage/database.sqlite
+/storage/members
+/storage/couples
